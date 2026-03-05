@@ -1,0 +1,8 @@
+{
+  "name": "TestPlugins",
+  "description": "Cloudstream extensions by parabamol63",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/parabamol63/TestPlugins/builds/plugins.json"
+  ]
+}
